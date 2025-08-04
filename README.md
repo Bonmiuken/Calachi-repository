@@ -73,4 +73,6 @@ Type "apt update" and hit ENTER then "apt upgrade" and ENTER.
 Type "su" and grant termux root privilege.
 Type "dd if=/storage/emulated/0/Download/up_param.tar of=/dev/block/platform/bootdevice/by-name/up_param" and hit ENTER
 Reboot, all warnings are gone.
+
+--------------------------------------------------------------------------------------------------------------------------
 Note: we do not guarantee it will run 100% and it does not mean you can hide root if you want to hide root please install zygisk and these files are only for Samsung Galaxy Tab A7 Lite if your device is broken we will not test please do not talk in a pushy way please talk gently if you want to add new features please chat to let us know thank you
