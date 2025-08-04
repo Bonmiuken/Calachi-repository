@@ -1,3 +1,5 @@
+Link download (Drive):https://drive.google.com/file/d/1HYDv2JzmctC-sh88jjUfcsV9zLEE5aZI/view?usp=drive_link
+
 -----------------------------------------------Guide-------------------------------------------------
 Download last ANDROID 14 firmware and EXTRACT it. 
 Download and install SAMSUNG USB DRIVER.
